@@ -1,0 +1,43 @@
+body{
+	background-color: orange;
+}
+#header {
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+#container1 {
+    width: 100%;
+    background-color: #ffcc33;
+}
+#first {
+    width: 70%;
+    float: left;
+    height: 600px;
+    background-color: grey;
+}
+#second {
+    width: 30%;
+    float: right;
+    height: 600px;
+    background-color: white;
+}
+#clear {
+    clear: both;
+}
+#container2 {
+    width: 100%;
+    background-color: #ffcc33;
+}
+#third {
+    width: 50%;
+    float: left;
+    height: 200px;
+    background-color: darkgrey;
+}
+#fourth {
+    width: 50%;
+    float: right;
+    height: 200px;
+    background-color: lightgrey;
+}
